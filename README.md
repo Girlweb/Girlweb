@@ -7,7 +7,7 @@
  Nairobi, Kenya  
  Portfolio: https://mitchele-jebet-cyber-shield.lovable.app                                                   
  Email: jebetmichele@gmail.com  
- LinkedIn: [linkedin.com/in/mitchelejebet](https://linkedin.com/in/mitchelejebet)
+ LinkedIn: [linkedin.com/in/mitchele-jebet](https://linkedin.com/in/mitchele-jebet)
 
 ---
 
