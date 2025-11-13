@@ -5,7 +5,7 @@
 🔐 Passionate about securing digital infrastructure and building robust security solutions. Currently studying Electrical Engineering at Kenyatta University while developing practical cybersecurity skills through hands-on projects and certifications.
 
  Nairobi, Kenya  
- Portfolio: https://mitchele-jebet-cyber-shield.lovable.app                                                   
+ Portfolio: https://mitchele-portfolio.vercel.app                                              
  Email: jebetmichele@gmail.com  
  LinkedIn: [linkedin.com/in/mitchele-jebet](https://linkedin.com/in/mitchele-jebet)
 
